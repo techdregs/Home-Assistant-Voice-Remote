@@ -1,4 +1,4 @@
-# Home Assitant Voice Remote
+# Home Assistant Voice Remote
  ESPHome Voice Remote for Home Assistant
 
 Requires:
